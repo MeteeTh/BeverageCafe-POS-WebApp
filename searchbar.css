@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+.search-container {
+/* Set the container's appearance */
+appearance: none;
+background-color: #f2f2f2;
+border: none;
+border-radius: 4px;
+display: flex;
+height: 40px;
+overflow: hidden;
+width: 150px;
+}
+
+.search-container:focus {
+outline: none;
+box-shadow: 0 0 0 3px rgba(0, 122, 255, 0.5);
+}
+
+.search-input {
+/* Set the input's appearance */
+appearance: none;
+background-color: transparent;
+border: none;
+flex: 1;
+font-family: Kanit;
+font-size: 16px;
+line-height: 40px;
+padding: 0 12px;
+width: 150px;
+
+/* Add a placeholder */
+::placeholder {
+color: #888888;
+
+}
+}
+
+.search-button {
+/* Set the button's appearance */
+appearance: none;
+background-color: #007aff;
+border: none;
+border-radius: 0 4px 4px 0;
+color: #ffffff;
+cursor: pointer;
+display: flex;
+align-items: center;
+font-family: Kanit;
+font-size: 16px;
+font-weight: bold;
+height: 40px;
+justify-content: center;
+padding: 0;
+text-transform: uppercase;
+width: 80px;
+
+/* Add hover, active, and focus styles */
+:hover {
+background-color: #0066cc;
+}
+:active {
+background-color: #005aa7;
+}
+:focus {
+box-shadow: 0 0 0 3px rgba(0, 122, 255, 0.5);
+}
+}

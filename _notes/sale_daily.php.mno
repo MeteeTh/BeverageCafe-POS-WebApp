@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec_ordersid" value="name:rc_id;datatype:int" />
+	<infoitem key="UD_Rec_orders" value="name:rc_date;datatype:date,name:menu_name;datatype:string,name:rcd_price;datatype:real,name:Num;datatype:real,name:Total;datatype:real" />
+	<infoitem key="UD_Rec_rc" value="name:rc_id;datatype:int" />
+	<infoitem key="UD_Rec_detail" value="name:rc_id;datatype:int,name:rc_date;datatype:date,name:rc_time;datatype:time,name:sum_rc_qty;datatype:real,name:sum_rc_price;datatype:real,name:sum_rc_cost;datatype:real,name:sum_rc_profit;datatype:real" />
+	<infoitem key="UD_Rec_rcd" value="name:rc_id;datatype:int,name:rc_date;datatype:date,name:rc_time;datatype:time,name:sum_rc_qty;datatype:real,name:sum_rc_price;datatype:real,name:sum_rc_cost;datatype:real,name:sum_rc_profit;datatype:real" />
+</info>

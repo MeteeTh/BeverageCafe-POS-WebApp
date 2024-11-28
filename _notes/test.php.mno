@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec_reportdetails" value="name:menu_id;datatype:int,name:menu_name;datatype:string,name:type_id;datatype:string,name:type_name;datatype:string,name:total_sold_quantity;datatype:real,name:total_sales_amount;datatype:real,name:total_cost;datatype:real,name:total_profit;datatype:real,name:Month;datatype:string" />
+	<infoitem key="UD_Rec_report" value="name:menu_id;datatype:int,name:menu_name;datatype:string,name:type_id;datatype:string,name:type_name;datatype:string,name:total_sold_quantity;datatype:real,name:total_sales_amount;datatype:real,name:total_cost;datatype:real,name:total_profit;datatype:real,name:Month;datatype:string" />
+</info>

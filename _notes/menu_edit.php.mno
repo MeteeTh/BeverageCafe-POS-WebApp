@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec_menu" value="name:menu_id;datatype:int,name:menu_name;datatype:string,name:menu_price;datatype:real,name:menu_cost;datatype:real,name:type_id;datatype:string,name:type_name;datatype:string" />
+	<infoitem key="UD_Rec_type" value="name:type_id;datatype:string,name:type_name;datatype:string" />
+</info>

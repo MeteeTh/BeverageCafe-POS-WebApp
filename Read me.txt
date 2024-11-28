@@ -1,0 +1,22 @@
+***Require***
+1. font Kanit หากไม่มีให้โหลดและติดตั้งก่อน (https://fonts.google.com/specimen/Kanit)
+
+2. Appserv v 8.5.0 และ PHP Version 5.6 เท่านั้น (http://prdownloads.sourceforge.net/appserv/appserv-win32-8.5.0.exe?download)
+
+3. Import ฐานข้อมูลที่ชื่อ andypos.sql ก่อนใช้งาน 
+หากต้องการลบข้อมูลทั้งหมด เพื่อใช้ข้อมูลใหม่ที่ท่านต้องการ
+ใช้คำสั่ง DELETE FROM table_name; หรือ TRUNCATE TABLE table_name; โดยให้ลบตารางตามลำดับดังนี้
+1) receiptdetail
+2) receipt
+3) menulist
+4) menutype
+(table_name หมายถึง ชื่อตารางที่ต้องการลบ)
+
+4. คู่มือการใช้งานโปรดดูที่ Final Report หน้าที่ 22-33
+
+*การเข้าสู่ระบบ*
+Username : AndyAdmin
+Password : password
+
+*หมายเหตุ 1 : หน้าเว็บไซต์การมีการเปลี่ยนแปลงขนาด ยืดหด ตามความละเอียดภาพ(Resolution)ของผู้ใช้ 
+*หมายเหตุ 2 : บางหน้าในเว็บไซต์มี Sound effect 

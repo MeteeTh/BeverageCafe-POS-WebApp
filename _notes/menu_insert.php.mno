@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec_type" value="name:type_id;datatype:string,name:type_name;datatype:string" />
+	<infoitem key="UD_Rec_maxnum" value="name:max_num;datatype:int" />
+</info>

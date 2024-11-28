@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec_menulist" value="name:menu_id;datatype:int,name:menu_name;datatype:string,name:menu_price;datatype:real,name:menu_cost;datatype:real,name:type_id;datatype:string,name:type_name;datatype:string" />
+	<infoitem key="UD_Rec_menu" value="name:menu_id;datatype:int,name:menu_name;datatype:string,name:menu_price;datatype:real,name:menu_cost;datatype:real,name:type_id;datatype:string,name:type_name;datatype:string" />
+	<infoitem key="MMGuideColor" value="#00FF00" />
+	<infoitem key="MMGuideVisible" value="false" />
+	<infoitem key="MMGuideLocked" value="false" />
+	<infoitem key="MMSnapToGuide" value="true" />
+	<infoitem key="MMGuidesSnapToElements" value="true" />
+	<infoitem key="MMDistanceColor" value="#0000FF" />
+	<infoitem key="MMGuideCount" value="0" />
+</info>

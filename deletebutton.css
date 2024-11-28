@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+.delete-button {
+/* Set the button's appearance */
+appearance: none;
+background-color: #FF3131;
+border: none;
+border-radius: 4px;
+color: #ffffff;
+cursor: pointer;
+display: inline-block;
+font-family: Kanit;
+font-size: 20px;
+font-weight: bold;
+padding: 12px 24px;
+text-align: center;
+text-transform: uppercase;
+
+/* Add hover, active, and focus styles */
+:hover {
+background-color: #45a049;
+}
+:active {
+background-color: #3e8e41;
+}
+:focus {
+box-shadow: 0 0 0 3px rgba(76, 175, 80, 0.5);
+}
+}

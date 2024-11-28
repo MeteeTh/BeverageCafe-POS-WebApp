@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec_bill" value="name:rc_id;datatype:int,name:rc_pt;datatype:string,name:rc_date;datatype:date,name:rc_time;datatype:time" />
+	<infoitem key="UD_Rec_billdetail" value="name:menu_id;datatype:int,name:menu_name;datatype:string,name:type_id;datatype:string,name:type_name;datatype:string,name:rcd_qty;datatype:int,name:rcd_price;datatype:real,name:rcd_cost;datatype:real,name:profit;datatype:real,name:sum_rcd_price;datatype:real,name:sum_rcd_cost;datatype:real,name:sum_rc_profit;datatype:real" />
+</info>
