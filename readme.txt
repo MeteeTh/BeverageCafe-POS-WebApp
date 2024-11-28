@@ -16,7 +16,7 @@
 
 2. Appserv v 8.5.0 และ PHP Version 5.6 เท่านั้น (http://prdownloads.sourceforge.net/appserv/appserv-win32-8.5.0.exe?download)
 
-3. Import ฐานข้อมูลที่ชื่อ andypos.sql ก่อนใช้งาน 
+3. phpMyAdmin ให้ Import ฐานข้อมูลที่ชื่อ andypos.sql ก่อนใช้งาน 
 หากต้องการลบข้อมูลทั้งหมด เพื่อใช้ข้อมูลใหม่ที่ท่านต้องการ
 ใช้คำสั่ง DELETE FROM table_name; หรือ TRUNCATE TABLE table_name; โดยให้ลบตารางตามลำดับดังนี้
 1) receiptdetail
